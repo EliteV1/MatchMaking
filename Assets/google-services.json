@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "460538443563",
+    "firebase_url": "https://matchmaking-306a2-default-rtdb.firebaseio.com",
+    "project_id": "matchmaking-306a2",
+    "storage_bucket": "matchmaking-306a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460538443563:android:935351b4c10309078c776e",
+        "android_client_info": {
+          "package_name": "com.Elite.Matchmaking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoB_32baDSpwf4x78GY6DgLFW-sKkQZPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
